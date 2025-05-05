@@ -1,0 +1,3 @@
+default.configuration=restaurant_reservation_system
+eclipse.preferences.version=1
+hibernate3.enabled=true
